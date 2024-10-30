@@ -1,0 +1,17 @@
+C:\Users\Mr. X\source\repos\HW10\HW10\bin\Debug\net8.0\HW10.exe
+C:\Users\Mr. X\source\repos\HW10\HW10\bin\Debug\net8.0\HW10.deps.json
+C:\Users\Mr. X\source\repos\HW10\HW10\bin\Debug\net8.0\HW10.runtimeconfig.json
+C:\Users\Mr. X\source\repos\HW10\HW10\bin\Debug\net8.0\HW10.dll
+C:\Users\Mr. X\source\repos\HW10\HW10\bin\Debug\net8.0\HW10.pdb
+C:\Users\Mr. X\source\repos\HW10\HW10\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\HW10.csproj.AssemblyReference.cache
+C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\HW10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\HW10.AssemblyInfoInputs.cache
+C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\HW10.AssemblyInfo.cs
+C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\HW10.csproj.CoreCompileInputs.cache
+C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\HW10.csproj.Up2Date
+C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\HW10.dll
+C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\refint\HW10.dll
+C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\HW10.pdb
+C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\HW10.genruntimeconfig.cache
+C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\ref\HW10.dll
