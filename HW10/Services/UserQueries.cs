@@ -10,7 +10,7 @@ namespace HW10.Services
     {
         public static string _create = "INSERT INTO Users (Username,Password,Status) values (@Username,@Password,@status);";
         public static string _GetById = "SELECT * FROM Users WHERE Id = @Id";
-        public static string _GetAll = "SELECT * FROM dbo.Users";
+        public static string _GetAll = "SELECT * FROM Users";
         public static string _Update = "UPDATE Users SET Username=@Username , Password = @Password , Status = @Status  WHERE Id = @Id";
     }
 

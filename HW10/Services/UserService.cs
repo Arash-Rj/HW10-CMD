@@ -8,7 +8,7 @@ namespace HW10.Services
 {
     public class UserService : IUserService
     {
-        DapperRepo _userRepo = new DapperRepo();
+        AdoRepo _userRepo = new AdoRepo();
         public Result ChangePass(string newpass, string oldpass)
         {
             bool check = _userRepo._OnlineUser.changepassword(newpass, oldpass);
