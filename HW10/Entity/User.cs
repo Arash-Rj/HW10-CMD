@@ -11,7 +11,7 @@ namespace HW10.Entity
     {
         public int Id { get; set; }
         public string UserName { get; set; }
-        public string Password { get; private set; }
+        public string Password { get;  set; }
         public StatusEnum Status { get; set; }
         public User(string userName, string password) 
         {
@@ -19,6 +19,7 @@ namespace HW10.Entity
             Password = password;
             Status = StatusEnum.UnAvailable;
         }
+        public User() { }
         public bool changepassword(string newpass, string oldpass)
         {
             if(Password == oldpass)
@@ -38,7 +39,7 @@ namespace HW10.Entity
         }
         public override string ToString()
         {
-            return $"{UserName} | {Status.ToString()}";
+            return $"{UserName} | {Status} ";
         }
     }
 }

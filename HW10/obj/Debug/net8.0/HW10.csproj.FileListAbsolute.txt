@@ -15,3 +15,11 @@ C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\refint\HW10.dll
 C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\HW10.pdb
 C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\HW10.genruntimeconfig.cache
 C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\ref\HW10.dll
+C:\Users\Mr. X\source\repos\HW10\HW10\obj\Debug\net8.0\HW10.sourcelink.json
+C:\Users\Mr. X\source\repos\HW10\HW10\bin\Debug\net8.0\Dapper.dll
+C:\Users\Mr. X\source\repos\HW10\HW10\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Mr. X\source\repos\HW10\HW10\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mr. X\source\repos\HW10\HW10\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mr. X\source\repos\HW10\HW10\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mr. X\source\repos\HW10\HW10\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mr. X\source\repos\HW10\HW10\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

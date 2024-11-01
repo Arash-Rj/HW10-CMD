@@ -48,7 +48,7 @@ void Guide()
     Console.WriteLine("*Register --username [username] --password [password] *");
     Console.WriteLine("*Login --username [username] --password [password]*");
     Console.WriteLine("*Change --status Available*");
-    Console.WriteLine("*Change --status Unvailable*");
+    Console.WriteLine("*Change --status UnAvailable*");
     Console.WriteLine("*Search --username [username]*");
     Console.WriteLine("*ChangePassword --old [myOldPassword] --new [myNewPassword]*");
     Console.WriteLine("*Logout*");

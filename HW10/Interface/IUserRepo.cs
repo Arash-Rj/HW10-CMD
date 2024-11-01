@@ -12,5 +12,6 @@ namespace HW10.Interface
         void Add(User item);
         User Get(int id);
         List<User> GetAll();
+        void Update(User user);
     }
 }
