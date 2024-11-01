@@ -27,7 +27,6 @@ namespace HW10.Repository
                 command.Parameters.AddWithValue(@"Status", (int)user.Status);
                 connection.Open();
                 command.ExecuteNonQuery();
-                connection.Close();
                 
             }
         }
@@ -78,7 +77,6 @@ namespace HW10.Repository
                         users.Add(user);
                     }
                 }
-                connection.Close();
                 return users;
             }
 
@@ -97,7 +95,6 @@ namespace HW10.Repository
                 command.Parameters.AddWithValue(@"Id", user.Id);
                 connection.Open();
                 command.ExecuteNonQuery();
-                connection.Close();
             }
 
         }
